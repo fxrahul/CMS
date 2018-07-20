@@ -1,0 +1,1 @@
+first create database with name cms then click on import and select cms(1).sql file then click on go
